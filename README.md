@@ -20,6 +20,6 @@ I'm Sai Ramana Gyajangi, an Embedded & AI Software Developer exploring cutting-e
 Check the full AI Tools list 👉 [Click here](#)
 
 ## 🔗 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-ID)
+- 💼 www.linkedin.com/in/sai-ramana-gyajangi-818012373
 - 💻 [GitHub Profile](https://github.com/SaiRamanaGyajangi-gif)
 
